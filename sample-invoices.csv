@@ -1,0 +1,4 @@
+invoice_id,po_id,supplier,amount
+INV-1001,PO-55,Acme Supplies,120.00
+INV-1002,PO-56,Northwind Office,86.50
+INV-1003,PO-99,Unknown Vendor,25.00
